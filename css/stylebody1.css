@@ -1,0 +1,231 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+ background-color: #9BEFF7;
+ background-image: url("../images/photo-1456735190827-d1262f71b8a3 cpoy.jpg");
+	
+}
+
+.containertopnav {
+	width: 100%;
+	background-color: #444343;
+	font-size: 20px;
+	padding: 10px;
+}
+
+.containertopnav a{
+	font-size: 15px;
+	color: aliceblue;
+}
+
+.containertopnav a button{
+	font-size: 15px;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.containertopnav a:hover{
+	color: #929292;
+}
+
+.containeraboutus {
+	background-color: #444343;
+	font-size: 20px;
+	padding: 40px;
+	margin: 20px;
+	color: aliceblue;
+	border-radius: 20px;
+}
+
+.containerproducts {
+	background-color: #ffffff;
+	font-size: 20px;
+	padding: 40px;
+	margin: 20px;
+	border-radius: 20px;	
+}
+
+.containercategory {
+	background-color: #444343;
+	font-size: 20px;
+	padding: 40px;
+	margin: 20px;
+	color: aliceblue;
+	border-radius: 20px;
+}
+
+.containercarousel {
+	width: 100%;
+}
+
+.containeradminmenu1 {
+	background-color: #2177B8;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu2 {
+	background-color: #A70000;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu3 {
+	background-color: #00AA5B;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu4 {
+	background-color: #7800A6;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu5 {
+	background-color: #349DFF;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu6 {
+	background-color: #CF6903;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu7 {
+	background-color: #00AA5B;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+.containeradminmenu8 {
+	background-color: #A70000;
+	color: #FFFFFF;
+	padding: 20px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	margin-bottom: 30px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #175039;
+  border-radius:5px;
+  box-sizing: border-box;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #175039;
+  border-radius:5px;
+  box-sizing: border-box;
+}
+
+input[type=date] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #175039;
+  border-radius:5px;
+  box-sizing: border-box;
+}
+
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: flex;
+  border: 1px solid #175039;
+  border-radius:5px;
+  box-sizing: border-box;
+}
+
+option {
+ 
+  padding: 20px;
+ 
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: flex;
+  border: 1px solid #175039;
+  border-radius:5px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius:5px;
+  box-sizing: border-box;
+  color:#FFFFFF;
+  background-color: #1A27D2;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	font-weight: 500;
+	font-size: 15px;
+}
+
+input[value=submit] {
+	border: 1px solid #ccc;
+  	box-sizing: border-box;
+	
+}
+
+
+button[type=submit] {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius:5px;
+  box-sizing: border-box;
+  color:#FFFFFF;
+  background-color: #1A27D2;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+	font-weight: 500;
+	font-size: 1.7vw;
+}
+
+
+p{
+	font-size: 15px;
+}
+
