@@ -73,7 +73,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Version 1.0 , 01 January 2022
+
+Copyright © 2022 Enok Dilshan. All rights reserved.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
