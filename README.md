@@ -4,8 +4,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div style= "display: flex;
+justify-content: center;
+align-items: center;">
+<img src="https://user-images.githubusercontent.com/73767944/186345349-9992eb40-2661-486f-903a-bea13ffba8e5.png" style = "">
+</div>
 
 Now a days we can see many methods for promotions and publications. So, to become a well-known and trusted organization among customers, the popularity and publicity should be increased. Parallelly their Stock and Sales should be maintained in a trackable manner. The company should have an E-commerce website with new features in order to be successful. The necessary changes on the website should be updated day to day.
 Since this existing manual process gave drawbacks, it has subjected to a few problems. The problems that have led to the requirement for a new web application are as follows;
